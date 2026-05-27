@@ -1,0 +1,11 @@
+Owner Hub Security Update Applied
+
+Changes completed:
+- Owner Hub hidden from homepage
+- Owner access only via credentials:
+
+Email: Mapstore2026@gmail.com
+Password: Mapstoreon2026@
+
+Deploy updated project to GitHub.
+Vercel will redeploy automatically.

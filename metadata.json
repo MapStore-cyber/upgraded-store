@@ -1,0 +1,6 @@
+{
+  "name": "MapStore Marketplace",
+  "description": "Secure global smart-escrow marketplace with automatically calculated multi-currency platforms and live delivery simulations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
